@@ -8,10 +8,8 @@ import pages.homepageobjects;
 import pages.productpageobjects;
 
 public class productpagetest {
-	
-	
-
 	homepageobjects homepage1;
+	homepageobjects homepage2;
 	dresspageobject dresspage;
 	productpageobjects productpage;
 	

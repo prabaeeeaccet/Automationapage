@@ -9,7 +9,7 @@ import pages.productpageobjects;
 
 public class productpagetest {
 	
-	homepageobjects homepage2;
+	
 
 	homepageobjects homepage1;
 	dresspageobject dresspage;

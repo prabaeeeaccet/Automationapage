@@ -9,7 +9,10 @@ import pages.productpageobjects;
 
 public class productpagetest {
 	
+<<<<<<< HEAD
 	homepageobjects homepage2;
+=======
+	homepageobjects homepage1;
 	dresspageobject dresspage;
 	productpageobjects productpage;
 	

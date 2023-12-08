@@ -9,7 +9,7 @@ public class homepageobjects extends basepage{
 	@FindBy(xpath="//a[@title='Women']")
 	private WebElement women;
 	
-	@FindBy(xpath="(//*[@title='Dresses'])[2]")
+	@FindBy(xpath="(//*[@title='Dresses'])[2]") 
 	WebElement dresses;
 	
 	@FindBy(xpath="(//*[@title='T-shirts'])[2]")
